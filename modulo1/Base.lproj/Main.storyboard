@@ -255,7 +255,7 @@
                                 <rect key="frame" x="108" y="288" width="198" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="25"/>
-                                <color key="textColor" systemColor="systemTealColor"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="music.quarternote.3" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="tMs-15-MyL">
@@ -299,7 +299,7 @@
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="31M-92-214"/>
                         <color key="backgroundColor" systemColor="labelColor"/>
-                        <color key="tintColor" systemColor="systemTealColor"/>
+                        <color key="tintColor" systemColor="linkColor"/>
                     </view>
                     <navigationItem key="navigationItem" title="Pasatiempo favorito" id="2Hy-4c-PgH"/>
                 </viewController>
@@ -351,7 +351,7 @@
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="RP2-BW-s1u"/>
                         <color key="backgroundColor" systemColor="labelColor"/>
-                        <color key="tintColor" systemColor="systemIndigoColor"/>
+                        <color key="tintColor" systemColor="linkColor"/>
                     </view>
                     <navigationItem key="navigationItem" title="Serie favorita" id="pji-Qj-cft"/>
                 </viewController>
@@ -371,11 +371,11 @@
                                 <rect key="frame" x="141" y="100" width="132" height="40"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="33"/>
-                                <color key="textColor" systemColor="systemIndigoColor"/>
+                                <color key="textColor" systemColor="linkColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cdu-UL-Lfy">
-                                <rect key="frame" x="47" y="76" width="320" height="464"/>
+                                <rect key="frame" x="47" y="70" width="320" height="464"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <string key="text">Malcolm in the middle es una serie protagonizada  por Frankie Muniz en el papel de Malcolm. 
 Este chico es un joven adolescente superdotado 
@@ -386,7 +386,7 @@ que intenta sobrevivir en una torpe familia disfuncional. ... Así, cada situaci
                             </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="qd3-Pz-NVn"/>
-                        <color key="backgroundColor" red="0.11168385873135833" green="0.11168385873135833" blue="0.11168385873135833" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.044156104330000001" green="0.044172160330000002" blue="0.044155083599999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Fvm-09-1c0" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -511,7 +511,7 @@ que intenta sobrevivir en una torpe familia disfuncional. ... Así, cada situaci
                             </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="RrQ-Zn-aRa"/>
-                        <color key="backgroundColor" red="0.1083111241" green="0.1083375588" blue="0.108309485" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.044156104330000001" green="0.044172160330000002" blue="0.044155083599999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="SNB-gf-Tgr" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -588,7 +588,7 @@ que intenta sobrevivir en una torpe familia disfuncional. ... Así, cada situaci
                             </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="iBp-Dx-pDT"/>
-                        <color key="backgroundColor" red="0.1083111241" green="0.1083375588" blue="0.108309485" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.072164948450000002" green="0.072164948450000002" blue="0.072164948450000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="XrO-4h-x1Z" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -650,7 +650,7 @@ que intenta sobrevivir en una torpe familia disfuncional. ... Así, cada situaci
                             </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="Yco-MP-j0d"/>
-                        <color key="backgroundColor" red="0.1083111241" green="0.1083375588" blue="0.108309485" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.04123711340206182" green="0.04123711340206182" blue="0.04123711340206182" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="2sO-Rz-K8P" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -689,7 +689,7 @@ que intenta sobrevivir en una torpe familia disfuncional. ... Así, cada situaci
                             </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="I0a-Rv-2QC"/>
-                        <color key="backgroundColor" red="0.1083111241" green="0.1083375588" blue="0.108309485" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.044156104330000001" green="0.044172160330000002" blue="0.044155083599999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Hje-9N-vsS" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -728,12 +728,6 @@ que intenta sobrevivir en una torpe familia disfuncional. ... Así, cada situaci
         </systemColor>
         <systemColor name="linkColor">
             <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-        </systemColor>
-        <systemColor name="systemIndigoColor">
-            <color red="0.34509803921568627" green="0.33725490196078434" blue="0.83921568627450982" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-        </systemColor>
-        <systemColor name="systemTealColor">
-            <color red="0.18823529411764706" green="0.69019607843137254" blue="0.7803921568627451" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
         <systemColor name="tintColor">
             <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
