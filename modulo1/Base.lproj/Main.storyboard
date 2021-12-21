@@ -37,7 +37,7 @@
                                 <rect key="frame" x="20" y="166" width="374" height="66"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="tinted" imagePlacement="top" title="Biografía" imagePadding="7" cornerStyle="medium">
+                                <buttonConfiguration key="configuration" style="tinted" imagePlacement="top" title="Biografíaa" imagePadding="7" cornerStyle="medium">
                                     <imageReference key="image" image="person.fill" catalog="system" renderingMode="template"/>
                                     <backgroundConfiguration key="background"/>
                                 </buttonConfiguration>
@@ -241,7 +241,9 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="P7u-lJ-Gce">
                                 <rect key="frame" x="47" y="325" width="320" height="255"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <string key="text">- Rock- Metal- Rap</string>
+                                <string key="text">- Rock
+- Metal
+- Rap</string>
                                 <fontDescription key="fontDescription" type="system" weight="medium" pointSize="23"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
@@ -263,7 +265,8 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xxg-Us-VM2">
                                 <rect key="frame" x="47" y="491" width="320" height="255"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <string key="text">- Youtube- Spotify</string>
+                                <string key="text">- Youtube
+- Spotify</string>
                                 <fontDescription key="fontDescription" type="system" weight="medium" pointSize="23"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
