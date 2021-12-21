@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "a2fc930122c4af1f1d633c41d299267ec16bdaafe9ddd7aad07c44fca64c6d81._RI_V_TTW_.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
